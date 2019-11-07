@@ -1,6 +1,4 @@
 # Urban-built-up-areas
-All the source code and data set included in the urban built-up area classification are here
-
 
 ## About all the source code and data
 All the source codesource code, raw data and processed data can be downloaded directly from:

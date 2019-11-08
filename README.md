@@ -7,15 +7,15 @@ All the source codesource code, raw data and processed data can be downloaded di
 
 ### Introduction to point of Interest (POI) data used in this study
 
-- Data Description: POI Data of Gaode Map in Xiamen City, Fujian Province, China.
+- Data Description: POI Data of Gaode Map in Xiamen City, Fujian Province, China
 
-- Time Range: 2019-04-25 to 2019-05-06.
+- Time Range: 2019-04-25 to 2019-05-06
 
-- Data Volume: 342487.
+- Data Volume: 342487
 
-- Data Format: csv.
+- Data Format: csv
 
-- Author: Research group of Lina Tang, Institute of Urban Environment, Chinese Academy of Sciences.
+- Author: Research group of Lina Tang, Institute of Urban Environment, Chinese Academy of Sciences
 
 - Data field description:
 
